@@ -1,0 +1,38 @@
+   .main div {
+    
+            border-radius: 5%;        /*边框*/
+            margin: 2%;                /*外边距*/
+            padding: 14.6%;               /*内边距*/
+                    /*内容*/
+            float: left;              /*浮动*/
+        }
+        .main{
+        	margin: 0 auto;
+        }
+        .a{
+           background-color: red; 
+        }
+         .b{
+        	  background-color: #C00000;
+        }
+         .c{
+        	 background-color: #080808;
+        }
+         .d{
+        	 background-color: #FFFF00;
+        }
+         .e{
+        	 background-color: #C0C0C0;
+        }
+         .f{
+        	 background-color: #00FF00;
+        }
+         .g{
+        	 background-color: #0000FF;
+        } 
+         .h{
+        	 background-color: #00FFFF;
+        }
+         .j{
+        	 background-color: #FF00FF;
+        }
